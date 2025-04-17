@@ -1,4 +1,2 @@
 .env
 database-explorer.py
-agent_system/agent_traces/
-**/__pycache__/
